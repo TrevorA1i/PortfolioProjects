@@ -149,7 +149,3 @@ max((RollingTotalVaccinated/population)*100) over (partition by location) Percen
 from #PopulationVsVaccinations
 
 
-
---CREATING VIEWS FOR VISUALIZATOINS
-
-CREATE VIEW PopulationVsVaccinations as
