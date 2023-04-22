@@ -1,5 +1,5 @@
 /*
-HR analytics using HR database -Trevor Ali
+HR analysis -Trevor Ali
 
 DATA EXPLORATION & ANALYSIS - SSMS
 
