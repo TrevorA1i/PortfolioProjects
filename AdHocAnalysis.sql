@@ -1,3 +1,10 @@
+/*
+
+Ad Hoc Analysis - Trevor Ali
+
+*/
+
+
 select * from AdHocAnalysis.dim_customer;
 select * from AdHocAnalysis.dim_product;
 select * from AdHocAnalysis.fact_gross_price;
